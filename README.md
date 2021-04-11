@@ -1,2 +1,2 @@
 # Windows-Forms-Game
-Floppy Bird imitation game with Windows Forms
+Flappy Bird imitation game with Windows Forms
