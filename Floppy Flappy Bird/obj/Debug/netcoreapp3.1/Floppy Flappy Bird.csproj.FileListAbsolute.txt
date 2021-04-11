@@ -1,0 +1,16 @@
+C:\Users\rozal\source\repos\Floppy Flappy Bird\Floppy Flappy Bird\bin\Debug\netcoreapp3.1\Floppy Flappy Bird.exe
+C:\Users\rozal\source\repos\Floppy Flappy Bird\Floppy Flappy Bird\bin\Debug\netcoreapp3.1\Floppy Flappy Bird.deps.json
+C:\Users\rozal\source\repos\Floppy Flappy Bird\Floppy Flappy Bird\bin\Debug\netcoreapp3.1\Floppy Flappy Bird.runtimeconfig.json
+C:\Users\rozal\source\repos\Floppy Flappy Bird\Floppy Flappy Bird\bin\Debug\netcoreapp3.1\Floppy Flappy Bird.runtimeconfig.dev.json
+C:\Users\rozal\source\repos\Floppy Flappy Bird\Floppy Flappy Bird\bin\Debug\netcoreapp3.1\Floppy Flappy Bird.dll
+C:\Users\rozal\source\repos\Floppy Flappy Bird\Floppy Flappy Bird\bin\Debug\netcoreapp3.1\Floppy Flappy Bird.pdb
+C:\Users\rozal\source\repos\Floppy Flappy Bird\Floppy Flappy Bird\obj\Debug\netcoreapp3.1\Floppy Flappy Bird.csprojAssemblyReference.cache
+C:\Users\rozal\source\repos\Floppy Flappy Bird\Floppy Flappy Bird\obj\Debug\netcoreapp3.1\Floppy_Flappy_Bird.Form1.resources
+C:\Users\rozal\source\repos\Floppy Flappy Bird\Floppy Flappy Bird\obj\Debug\netcoreapp3.1\Floppy_Flappy_Bird.Properties.Resources.resources
+C:\Users\rozal\source\repos\Floppy Flappy Bird\Floppy Flappy Bird\obj\Debug\netcoreapp3.1\Floppy Flappy Bird.csproj.GenerateResource.cache
+C:\Users\rozal\source\repos\Floppy Flappy Bird\Floppy Flappy Bird\obj\Debug\netcoreapp3.1\Floppy Flappy Bird.AssemblyInfoInputs.cache
+C:\Users\rozal\source\repos\Floppy Flappy Bird\Floppy Flappy Bird\obj\Debug\netcoreapp3.1\Floppy Flappy Bird.AssemblyInfo.cs
+C:\Users\rozal\source\repos\Floppy Flappy Bird\Floppy Flappy Bird\obj\Debug\netcoreapp3.1\Floppy Flappy Bird.csproj.CoreCompileInputs.cache
+C:\Users\rozal\source\repos\Floppy Flappy Bird\Floppy Flappy Bird\obj\Debug\netcoreapp3.1\Floppy Flappy Bird.dll
+C:\Users\rozal\source\repos\Floppy Flappy Bird\Floppy Flappy Bird\obj\Debug\netcoreapp3.1\Floppy Flappy Bird.pdb
+C:\Users\rozal\source\repos\Floppy Flappy Bird\Floppy Flappy Bird\obj\Debug\netcoreapp3.1\Floppy Flappy Bird.genruntimeconfig.cache
